@@ -1,0 +1,5 @@
+🔹 Steps to Run
+
+
+javac *.java
+java filename
