@@ -1,0 +1,2 @@
+javac TokenRing.java
+java TokenRing
