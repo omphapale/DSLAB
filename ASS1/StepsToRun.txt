@@ -1,0 +1,15 @@
+🔹 Steps to Run
+
+
+1. Compile both files
+javac Server.java
+javac Client.java
+
+
+2. Run Server FIRST
+java Server
+
+👉 Output: Server is waiting...
+
+3. Run Client (in another terminal)
+java Client
